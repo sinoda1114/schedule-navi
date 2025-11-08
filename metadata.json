@@ -1,0 +1,5 @@
+{
+  "name": "AI Schedule Navigator",
+  "description": "An application that uses AI to generate a real-time event schedule navigator from user-provided text or a URL.",
+  "requestFramePermissions": []
+}
